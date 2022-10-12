@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Electrical-Electronics Engineering**
 
-- 🌱 I’m currently learning **Data , Python**
+- 🌱 I’m currently learning **Data Scince
 
 - 📫 How to reach me **oguzhanakkoyun1@outlook.com**
 
