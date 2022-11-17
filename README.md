@@ -1,4 +1,4 @@
-<h1 align="center">oguzhanakkoyunlu.com</h1>
+<h1 align="center">https://oguzhanakkoyunlu.com/</h1>
 <h3 align="center">Hi 👋, I'm Oğuzhan</h3>
 <h3 align="center">Someone from Turkey trying to be a data analyst</h3>
 
