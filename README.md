@@ -1,10 +1,8 @@
 <h1 align="center">www.oguzhanakkoyunlu.com</h1>
 <h3 align="center">Hi 👋, I'm Oğuzhan</h3>
-<h3 align="center">Someone from Turkey trying to be a data analyst</h3>
+<h3 align="center">Someone from Turkey trying to be a data engineer</h3>
 
-- 🔭 I’m currently studying **Electrical-Electronics Engineering**
-
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Engineer**
 
 - 📫 How to reach me **oguzhanakkoyun1@outlook.com**
 
